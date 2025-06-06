@@ -383,7 +383,7 @@ const Events = () => {
         <section className={styles.timelineSection}>
           <h2 className={styles.sectionTitle}>
             <div className={styles.sectionIcon}>
-              <i className="fas fa-calendar-alt"></i>
+              <FaCalendar />
             </div>
             Upcoming Events Timeline
           </h2>
